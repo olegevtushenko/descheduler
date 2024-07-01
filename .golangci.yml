@@ -13,3 +13,4 @@ linters:
 linters-settings:
   goimports:
 local-prefixes: sigs.k8s.io/descheduler
+d
